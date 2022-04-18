@@ -1,6 +1,6 @@
 # This is an implementation of the ERC20 Standard
 
-i use the implementation of the EIP ERC20 with the six functions and 2 events it needs;
+i use the implementation of the ERC20 STANDARD with the six functions and 2 events it needs;
 
 # The deploy to both devnets, BSC testnet, Polygon Mumbai
 
